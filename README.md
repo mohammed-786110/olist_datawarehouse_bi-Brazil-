@@ -1,3 +1,5 @@
+<img width="1552" height="727" alt="DB_Page_1" src="https://github.com/user-attachments/assets/41655183-1403-4b7a-82dc-ff75d140c6d5" />
+
 # olist_datawarehouse_bi-Brazil-
 Enterprise Data Warehouse and Business Intelligence solution built using SQL Server and Power BI on the Brazilian Olist E-commerce dataset.
 
