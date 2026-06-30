@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Jul 1, 2026, 12_04_52 AM" src="https://github.com/user-attachments/assets/cf1a0b88-4be7-4bc2-be5f-70f800e4ff89" />
+
 <img width="1552" height="727" alt="DB_Page_1" src="https://github.com/user-attachments/assets/41655183-1403-4b7a-82dc-ff75d140c6d5" />
 
 # olist_datawarehouse_bi-Brazil-
